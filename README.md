@@ -48,3 +48,9 @@ In this repo, you can find some example codes with related datasets for text cla
 
 
 If you have any question about codes, dataset, models etc., feel free to reach me.
+
+<p align="left">
+<a href="https://twitter.com/ozcangundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ozcangundes" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/%C3%B6zcan-g%C3%BCnde%C5%9F-7693055b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="13198517" height="30" width="30" /></a>
+<a href="https://medium.com/@ozcangundes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ozcangundes" height="30" width="30" /></a>
+</p>
