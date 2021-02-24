@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Nov 11 11:50:49 2020
+Created on 11:50:49 2020
 
 @author: ozcan
 """
