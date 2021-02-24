@@ -5,7 +5,7 @@ Created on Wed Nov 11 11:50:49 2020
 @author: ozcan
 """
 
-file = open(r'C:\Users\ozcan\Desktop\NLP Scripts\Compec Workshop\Musical_Instruments_5\Musical_Instruments_5.json',"r")
+file = open(r'Musical_Instruments_5.json',"r")
 
 final_dict=[]
 totalLinesInInputFile=0
@@ -34,4 +34,3 @@ df_train, df_test, y_train, y_valid = train_test_split(df, df["label"], test_siz
 df_train.label.value_counts()
 df_test.label.value_counts()
 
-df_train.
